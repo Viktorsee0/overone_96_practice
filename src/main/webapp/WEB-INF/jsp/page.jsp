@@ -1,9 +1,9 @@
 <%@ page contentType="text/html;charset=UTF-8"%>
 <html>
 <head>
-    <title>Registration</title>
+    <title>Success</title>
 </head>
 <body>
-${message}
+<span style="color: indianred; font-size: 32px">${message}</span>
 </body>
 </html>
